@@ -7,4 +7,4 @@ In the folder "FDM", I solve the time evolution differential equations of sphale
 In the folder spectral, we solve the sphaleron by using the spectral method where the solutions are expanded by Chebyshev Polynomials. The caculation details are given in the appendix of 2307.04713. The sphaleron differential equations are given by "A.19-A.21" (after axis transformation):
 
 
-![image]([https://github.com/jiangsy36/sphaleron-paper/blob/main/spectral/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-05%20212438.png](https://github.com/jiangsy36/sphaleron-paper/blob/main/spectral/sphaleron.png))
+![image](https://github.com/jiangsy36/sphaleron-paper/blob/main/spectral/sphaleron.png)
