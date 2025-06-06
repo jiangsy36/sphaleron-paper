@@ -12,3 +12,5 @@ In the folder spectral, we solve the sphaleron by using the spectral method wher
 
 
 ![image](https://github.com/jiangsy36/sphaleron-paper/blob/main/spectral/sphaleron.png)
+The solution reads,
+![image](https://github.com/jiangsy36/sphaleron-paper/blob/main/spectral/hdelta.png)
